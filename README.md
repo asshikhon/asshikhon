@@ -1,4 +1,4 @@
-[![Web Developer](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1724284800&v=beta&t=vx5Om-en-K_SOounH-SD1Y9BL0CvCMTvbkDs-4IENog)](https://www.linkedin.com/in/asshikhon/)
+[![Web Developer](https://i.ibb.co.com/17SY76Q/profile.jpg)](https://www.linkedin.com/in/asshikhon/)
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #4c4cff;">Hi 👋, I'm <span style="color: #ff6347;">Shamim Al Mahmud</span></h1>
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #8b008b;">A passionate Frontend developer from Bangladesh</h3>
 
